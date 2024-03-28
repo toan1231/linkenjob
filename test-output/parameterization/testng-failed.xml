@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [parameterization]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="alsoParameterization(failed)">
+    <parameter name="password" value="chauthai"/>
+    <parameter name="username" value="chauthai226"/>
+    <classes>
+      <class name="interview.Testing">
+        <methods>
+          <include name="test1"/>
+        </methods>
+      </class> <!-- interview.Testing -->
+    </classes>
+  </test> <!-- alsoParameterization(failed) -->
+</suite> <!-- Failed suite [parameterization] -->

@@ -1,0 +1,21 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "money",
+        "resultFileName": "Money"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1703764060835,
+      "duration": 14659,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

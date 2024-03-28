@@ -1,0 +1,38 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "money",
+        "resultFileName": "Money"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1704345023877,
+      "duration": 46559,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "money",
+        "resultFileName": "Money1"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1704344938086,
+      "duration": 132572,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

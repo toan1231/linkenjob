@@ -1,0 +1,33 @@
+{
+  "total": 3,
+  "pass": 3,
+  "fail": 0,
+  "skip": 0,
+  "classes": [
+    "interview.Testing"
+  ],
+  "envInfo": {
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "0b",
+      "qaf-Build-Time": "02-Oct-2022 23:11:27",
+      "qaf-Version": "3.2"
+    },
+    "run-parameters": {
+      "password": "chauthai",
+      "username": "chauthai226"
+    },
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "17.0.8",
+      "os.arch": "amd64",
+      "host": "Chau_Thai",
+      "os.name": "Windows 11",
+      "user.name": "chaut",
+      "os.version": "10.0"
+    }
+  },
+  "startTime": 1703667384412,
+  "endTime": 1703667384517
+}

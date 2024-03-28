@@ -1,0 +1,13 @@
+{
+  "name": "parameterization",
+  "status": "pass",
+  "tests": [
+    "Parameterization/AlsoParameterization"
+  ],
+  "total": 1,
+  "pass": 1,
+  "fail": 0,
+  "skip": 0,
+  "startTime": 1703630252502,
+  "endTime": 1703630252586
+}

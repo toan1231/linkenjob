@@ -1,0 +1,23 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [
+        "chauthai226"
+      ],
+      "metaData": {
+        "description": "",
+        "name": "test1",
+        "resultFileName": "Test1"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1703630252502,
+      "duration": 84,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}
